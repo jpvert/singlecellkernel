@@ -1,0 +1,17 @@
+*.DS_Store
+*.log
+*.aux
+*.blg
+*.bbl
+*.bak
+*.synctex.gz
+*.dvi
+*.nav
+*.out
+*.toc
+*.snm
+*.thm
+*.Rhistory
+*.RData
+doc/*
+data/glioblastoma/glioblastoma.txt
