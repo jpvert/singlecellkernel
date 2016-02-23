@@ -17,4 +17,4 @@
 #$ -t 1
 
 source $HOME/.bashrc
-Rscript /cbio/donnees/yjiao/singlecellkernel/results/160220/runkmat.R 
+Rscript /cbio/donnees/yjiao/singlecellkernel/results/160220/kmat.R 
